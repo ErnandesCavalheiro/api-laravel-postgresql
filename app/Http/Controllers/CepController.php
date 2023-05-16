@@ -34,7 +34,6 @@ class CepController extends Controller
      */
     public function consultAddress(Request $request)
     {
-
         // Faz as validações para conferir se o CEP é valido
         try {
 
